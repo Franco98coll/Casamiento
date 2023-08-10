@@ -11,7 +11,7 @@ body{
 #splash{
     width: 100%;
     height: 60vh;
-    background-image: url('../img/primero.png');
+    background-image: url('./img/primero.png');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
@@ -22,7 +22,7 @@ body{
 }
 .descripcion{
     background-size: cover;
-    background-image: url('../img/fonditos.jpg');
+    background-image: url('./img/fonditos.jpg');
     background-color: #E5E8E8;
     font-family: maitree, serif;
 }
